@@ -1,1 +1,3 @@
 First Line commited
+Second line which is not commited but staged
+Third line which will get added and commited in one command
